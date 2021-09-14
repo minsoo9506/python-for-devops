@@ -1,0 +1,11 @@
+---
+version: 1.0.0
+metadata:
+  name: hello world
+  size: 64GB
+owner:
+  # - : array
+  - CEO: Kim
+    CTO: Park
+    Intern: Song
+...
